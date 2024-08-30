@@ -1,6 +1,6 @@
 keyboard==0.13.5
 numpy==1.18.3
-opencv-python==4.2.0.34
+opencv-python==4.8.1.78
 pkg-resources==0.0.0
 PyQt5==5.14.2
 PyQt5-sip==12.7.2
